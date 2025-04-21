@@ -1,8 +1,0 @@
-{
-  "buildCommand": "",
-  "outputDirectory": "dist",
-  "staticAdapter": {
-    "root": "dist",
-    "spa": true
-  }
-}
