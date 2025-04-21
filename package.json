@@ -4,14 +4,12 @@
 	"description": "互動式 3x3 魔術方塊網頁遊戲，使用 Three.js 與 webpack",
 	"main": "index.js",
 	"scripts": {
-		"start": "node index.js",
 		"dev": "webpack serve --mode development --open",
 		"build": "webpack --mode production"
 	},
 	"author": "",
 	"license": "MIT",
 	"dependencies": {
-		"express": "^4.19.2",
 		"three": "^0.156.1"
 	},
 	"devDependencies": {
